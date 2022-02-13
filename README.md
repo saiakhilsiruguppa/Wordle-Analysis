@@ -6,3 +6,9 @@ Have you ever played a game of Wordle and wondered 'Hmm, so what should my first
 
 <img src="https://github.com/saiakhilsiruguppa/Wordle-Analysis/blob/main/images/rules.png" width="450" height="480">
 
+
+### References
+[1] https://www.kaggle.com/shamiljamion/wordle-answers    
+[2] https://www.nytimes.com/games/wordle/index.html   
+[3] https://www.pcgamer.com/the-best-wordle-starting-words-and-other-winning-strategies-from-expert-nerds  
+[4] https://www.section.io/engineering-education/entropy-information-gain-machine-learning/   
